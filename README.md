@@ -1,7 +1,7 @@
 My personal repository.
 
 # Hi there 👋 ,I'm Silent Emmanuel Dzikiti
-🎉 Experienced Software Engineer skiled in Javascript, ReactJS, Python, CSS3 and HTML
+🎉 Experienced Full Stack Engineer, interested in Artificial intelligence, Blockchain Technology, and Cloud Engineering.
 
 👀 I’m interested in building highly scalable mobile and web applications
 
